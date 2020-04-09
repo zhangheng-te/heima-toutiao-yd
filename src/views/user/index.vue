@@ -1,8 +1,5 @@
 <template>
-  <div class='container'>
-      123
-      <router-view></router-view>
-  </div>
+  <div class='container'>用户</div>
 </template>
 
 <script>

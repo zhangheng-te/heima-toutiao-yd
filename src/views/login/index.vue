@@ -1,8 +1,5 @@
 <template>
-  <div class='container'>
-      123
-      <router-view></router-view>
-  </div>
+  <div class="container">登录</div>
 </template>
 
 <script>
